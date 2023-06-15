@@ -29,7 +29,7 @@ This repository contains the backend code for ChatVia, a chat application built 
    <li>
    <p>Clone the repository:</p>
    ```bash
-   git clone https://github.com/your-username/chatvia-backend.git
+   git clone https://github.com/Muhammad-Bilal-7896/chatviaBackend.git
    ```
    </li>
    <li>
