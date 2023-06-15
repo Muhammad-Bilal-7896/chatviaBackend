@@ -81,7 +81,13 @@ The following are the API endpoints that can be accessed from this backend serve
 
 ## Screenshots 📷
 <p align="center">
-  <img src="https://i.ibb.co/LpH4gpV/Screenshot-2.png" alt="Screenshot 1">
-  <img src="https://i.ibb.co/rQvzjnZ/Screenshot-3.png" alt="Screenshot 2">
+  <div>
+    All Fetched list of chat users
+    <img src="https://i.ibb.co/LpH4gpV/Screenshot-2.png" alt="Screenshot 1">
+  </div>
+  <div>
+    All Fetched list of chats
+    <img src="https://i.ibb.co/rQvzjnZ/Screenshot-3.png" alt="Screenshot 2">
+  </div>
   <!-- Add more screenshots if necessary -->
 </p>
