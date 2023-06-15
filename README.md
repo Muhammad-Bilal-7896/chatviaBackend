@@ -81,7 +81,7 @@ The following are the API endpoints that can be accessed from this backend serve
 
 ## Screenshots 📷
 <p align="center">
-  <img src="https://ibb.co/YjwvdjH" alt="Screenshot 1">
-  <img src="https://ibb.co/2F5C9Xj" alt="Screenshot 2">
+  <img src="https://i.ibb.co/LpH4gpV/Screenshot-2.png" alt="Screenshot 1">
+  <img src="https://i.ibb.co/rQvzjnZ/Screenshot-3.png" alt="Screenshot 2">
   <!-- Add more screenshots if necessary -->
 </p>
